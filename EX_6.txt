@@ -1,0 +1,11 @@
+for EX 5
+git status
+git add .
+git commit -m "Commit for step 5"
+git push -u origin main
+
+for EX 6 
+git status
+git add .
+git commit -m "Commit for step 6"
+git push -u origin main
